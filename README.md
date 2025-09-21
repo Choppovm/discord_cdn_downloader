@@ -5,6 +5,8 @@ Please note that this was originally made for downloading voice messages off of 
 
 Despite this, any type of CDN can be downloaded (provided you know what to change in the code).
 
+Also voiceLines.txt's URLs are messed up for obvious reasons (not revealing my voice messages). Just replace them with your own.
+
 
 
 ## Instructions
